@@ -22,4 +22,6 @@ Project môn Lưu trữ và xử lý dữ liệu lớn. Nhóm gồm các thành 
     ├── Spark Streaming Simulation
     |   ├── PartionDataToStream.ipynb
     |   └── StructuredStreamingSimulation.ipynb
+    ├── Spark House Price Prediction
+    |   └── HousePricePrediction.ipynb
 ```
