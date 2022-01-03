@@ -41,7 +41,6 @@ services:
       - namenode
       - datanode1
       - datanode2
-      - datanode3
     env_file:
       - ./hadoop.env
     ports:
