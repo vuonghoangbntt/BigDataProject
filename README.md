@@ -19,6 +19,7 @@ Project môn Lưu trữ và xử lý dữ liệu lớn. Nhóm gồm các thành 
     |   ├── crawl_data.py
     |   └── preprocess_data.ipynb
     ├── Spark Visualize And Analysis
+    |   └── BigdataProjectNotebook.ipynb
     ├── Spark Streaming Simulation
     |   ├── PartionDataToStream.ipynb
     |   └── StructuredStreamingSimulation.ipynb
